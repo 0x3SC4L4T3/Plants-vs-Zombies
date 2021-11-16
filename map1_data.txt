@@ -1,0 +1,2 @@
+0|Dead End Street|You are at the end of the dead-end street. The streets smells bad - almost like death. There are walls on both sides of the street. The only exit appears to be down the road to the east.|-1|1|-1|-1|
+1|End of Empty Street|This is the strangest street. It went from a dead end to another dead-end. There do not appear to be any other exists to this neighborhood except back to the deadend to the west. It smells like old oil and vomit here. The road extends to the west.|-1|-1|-1|0|
